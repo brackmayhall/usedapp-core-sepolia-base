@@ -1,6 +1,6 @@
 {
   "name": "usedapp-core-sepolia-fork",
-  "private": true,
+  "private": false,
   "engines": {
     "node": ">=10",
     "yarn": "^1.17.3"

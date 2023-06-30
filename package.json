@@ -1,5 +1,5 @@
 {
-  "name": "usedapp",
+  "name": "usedapp-core-sepolia-fork",
   "private": true,
   "engines": {
     "node": ">=10",

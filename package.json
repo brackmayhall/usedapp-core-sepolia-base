@@ -1,5 +1,5 @@
 {
-  "name": "usedapp-core-sepolia-fork",
+  "name": "usedapp-core-sepolia-base",
   "version": "0.0.1",
   "private": false,
   "engines": {

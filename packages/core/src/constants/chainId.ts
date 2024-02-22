@@ -31,6 +31,8 @@ import {
   xDai,
   OptimismKovan,
   Optimism,
+  BaseSepolia,
+  Base,
 } from '../model'
 
 // rough alphabet order (put network from the same chain together)
@@ -66,6 +68,8 @@ export const DEFAULT_SUPPORTED_CHAINS = [
   xDai,
   OptimismKovan,
   Optimism,
+  BaseSepolia,
+  Base,
 ]
 
 export enum ChainId {
@@ -100,4 +104,6 @@ export enum ChainId {
   Arbitrum = 42161,
   ArbitrumRinkeby = 421611,
   Sepolia = 11155111,
+  BaseSepolia = 84532,
+  Base = 8453,
 }
